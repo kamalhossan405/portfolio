@@ -82,7 +82,7 @@ const Footer = () => {
               <motion.a
                 whileHover={{ scale: 1.15 }}
                 whileTap={{ scale: 0.95 }}
-                href="https://github.com/"
+                href="https://github.com/kamalhossan405"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub Profile"

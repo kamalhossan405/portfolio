@@ -114,7 +114,7 @@ const Resume = () => {
               <span className="truncate">Netrokona University, BD</span>
             </div>
             <a
-              href="https://github.com/"
+              href="https://github.com/kamalhossan405"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-1.5 hover:text-blue-600 dark:hover:text-cyan-400 transition"

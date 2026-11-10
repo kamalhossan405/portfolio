@@ -5,11 +5,11 @@
 I am a passionate and self-driven developer focused on building modern, responsive, and high-performance web applications using **Next.js, React.js, TypeScript, and Tailwind CSS**. I leverage AI-assisted development tools to improve productivity, solve problems efficiently, and create intuitive digital experiences.
 
 - 💻 **Primary Focus:** Next.js & Full-Stack Development
-- 📍 **Location:** Sylhet, Bangladesh
+- 📍 **Location:** Netrokona University, Netrokona, Bangladesh
 - 🎯 **Career Goal:** Junior / Entry-Level Full-Stack Developer
 - 🚀 **Currently Focused On:** Modern web development, scalable architecture, and AI-driven engineering
-- 📧 **Email:** [mdkamalhossaneu@gmail.com](mailto:nuruddinnur538@gmail.com)
-- 💼 **Portfolio:** [Visit My Portfolio](https://adorable-starship-b29618.netlify.app/)
+- 📧 **Email:** [mdkamalhossanneu@gmail.com](mailto:mdkamalhossanneu@gmail.com)
+- 💼 **Portfolio:** [Visit My Portfolio](https://enchanting-churros-a305ce.netlify.app/)
 
 ---
 
@@ -160,7 +160,7 @@ I'm open to junior and entry-level development opportunities, collaborative proj
 - 💻 **GitHub:** [kamalhossan405](https://github.com/kamalhossan405)
 - 📘 **Facebook:** [Connect on Facebook](https://www.facebook.com/share/19rxoxRQ6Z/)
 
-- 🌍 **Portfolio:** [Visit My Portfolio]()
+- 🌍 **Portfolio:** [Visit My Portfolio](https://enchanting-churros-a305ce.netlify.app/)
 
 ---
 

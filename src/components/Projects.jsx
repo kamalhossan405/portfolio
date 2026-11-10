@@ -152,7 +152,7 @@ const Projects = () => {
         <p className="text-sm text-gray-500 dark:text-gray-400">
           Want to explore more source code, commits, and experiments? Visit my{" "}
           <a
-            href="https://github.com/"
+            href="https://github.com/kamalhossan405"
             target="_blank"
             rel="noreferrer"
             className="font-semibold text-blue-600 dark:text-cyan-400 hover:underline inline-flex items-center gap-1"
