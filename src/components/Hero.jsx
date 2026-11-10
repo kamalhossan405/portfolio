@@ -339,25 +339,25 @@ const Hero = () => {
             </div>
           </div>
 
-          {/* Floating Pill Badges with gentle Framer Motion floating effect */}
+          {/* Floating Pill Badges with gentle Framer Motion floating effect (Visible on Tab & Desktop) */}
           <motion.div
             animate={{ y: [0, -8, 0] }}
             transition={{ duration: 4.5, repeat: Infinity, ease: "easeInOut" }}
-            className="absolute -bottom-5 -left-2 sm:-left-6 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-md border border-gray-200 dark:border-gray-800 hover:border-blue-400 dark:hover:border-cyan-500 rounded-xl p-3 shadow-xl flex items-center gap-3 transition-colors"
+            className="hidden sm:flex absolute -bottom-5 -left-2 sm:-left-6 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-md border border-gray-200 dark:border-gray-800 hover:border-blue-400 dark:hover:border-cyan-500 rounded-xl p-3 shadow-xl items-center gap-3 transition-colors"
           >
             <div className="w-10 h-10 rounded-lg bg-gradient-to-tr from-blue-600 to-indigo-600 text-white flex items-center justify-center font-black text-sm shadow-md shadow-blue-500/25">
-              5+
+              3+
             </div>
             <div>
-              <p className="text-xs font-bold text-gray-900 dark:text-white">Featured Projects</p>
-              <p className="text-[11px] text-gray-500 dark:text-gray-400">BazarDor, DevStack &amp; More</p>
+              <p className="text-xs font-bold text-gray-900 dark:text-white">Upcoming Projects</p>
+              <p className="text-[11px] text-gray-500 dark:text-gray-400">Full-Stack &amp; AI Solutions</p>
             </div>
           </motion.div>
 
           <motion.div
             animate={{ y: [0, 8, 0] }}
             transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
-            className="absolute -top-3 -right-2 sm:-right-6 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-md border border-gray-200 dark:border-gray-800 hover:border-cyan-400 dark:hover:border-cyan-500 rounded-xl px-3.5 py-2 shadow-xl flex items-center gap-2.5 transition-colors"
+            className="hidden sm:flex absolute -top-3 -right-2 sm:-right-6 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-md border border-gray-200 dark:border-gray-800 hover:border-cyan-400 dark:hover:border-cyan-500 rounded-xl px-3.5 py-2 shadow-xl items-center gap-2.5 transition-colors"
           >
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
             <div>

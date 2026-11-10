@@ -118,8 +118,8 @@ const AboutMe = () => {
             {/* Micro Stats */}
             <div className="grid grid-cols-3 gap-2.5 sm:gap-3 pt-6 mt-6 border-t border-gray-100 dark:border-gray-800 text-center">
               <div className="p-2 sm:p-2.5 bg-gray-50 dark:bg-gray-800/60 rounded-xl">
-                <span className="block text-xl sm:text-2xl font-black text-blue-600 dark:text-cyan-400">5+</span>
-                <span className="text-[10px] sm:text-[11px] text-gray-500 dark:text-gray-400 font-medium">Projects Built</span>
+                <span className="block text-xl sm:text-2xl font-black text-blue-600 dark:text-cyan-400">3+</span>
+                <span className="text-[10px] sm:text-[11px] text-gray-500 dark:text-gray-400 font-medium">Upcoming Projects</span>
               </div>
               <div className="p-2 sm:p-2.5 bg-gray-50 dark:bg-gray-800/60 rounded-xl">
                 <span className="block text-xl sm:text-2xl font-black text-indigo-600 dark:text-indigo-400">100%</span>

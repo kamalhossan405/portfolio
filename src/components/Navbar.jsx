@@ -136,8 +136,8 @@ const Navbar = () => {
           })}
         </ul>
 
-        {/* Right CTA & Theme Toggle (Tablet & Desktop) */}
-        <div className="hidden md:flex items-center gap-3">
+        {/* Right CTA & Theme Toggle */}
+        <div className="flex items-center gap-2 sm:gap-3">
           <ThemeToggle />
 
           <motion.a
@@ -145,21 +145,17 @@ const Navbar = () => {
             whileTap={{ scale: 0.97 }}
             href="/resume.pdf"
             download="Kamal_Hossan_Resume.pdf"
-            className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white px-4 py-2.5 lg:px-5 rounded-full text-xs lg:text-sm font-semibold shadow-md shadow-blue-500/20 hover:shadow-lg hover:shadow-blue-500/30 transition-all cursor-pointer shrink-0"
+            className="hidden sm:inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white px-3.5 sm:px-4 py-2 lg:px-5 lg:py-2.5 rounded-full text-xs lg:text-sm font-semibold shadow-md shadow-blue-500/20 hover:shadow-lg hover:shadow-blue-500/30 transition-all cursor-pointer shrink-0"
           >
-            <HiDownload className="text-base" />
+            <HiDownload className="text-sm lg:text-base" />
             <span>Resume</span>
           </motion.a>
-        </div>
 
-        {/* Mobile / Small Tablet Action Bar (Right side) */}
-        <div className="flex md:hidden items-center gap-2">
-          <ThemeToggle />
-
+          {/* Hamburger Menu Toggle (Mobile & Tablet: < lg) */}
           <button
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label="Toggle navigation menu"
-            className="p-2.5 rounded-xl bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-700 transition focus:outline-none"
+            className="lg:hidden p-2 sm:p-2.5 rounded-xl bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-700 transition focus:outline-none"
           >
             {menuOpen ? <HiX className="text-xl" /> : <HiMenuAlt3 className="text-xl" />}
           </button>
