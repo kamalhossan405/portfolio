@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { FaGithub, FaFacebook, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiMail, HiArrowUp, HiPhone } from "react-icons/hi";
 
 const Footer = () => {
@@ -79,6 +79,17 @@ const Footer = () => {
               Netrokona University, Bangladesh • Available for remote and on-site opportunities.
             </p>
             <div className="flex items-center gap-2.5 pt-1">
+              <motion.a
+                whileHover={{ scale: 1.15 }}
+                whileTap={{ scale: 0.95 }}
+                href="https://www.linkedin.com/in/md-kamal-hossan/"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="LinkedIn Profile"
+                className="w-9 h-9 rounded-lg bg-gray-100 dark:bg-gray-800 hover:bg-blue-600 hover:text-white flex items-center justify-center text-gray-700 dark:text-gray-300 transition"
+              >
+                <FaLinkedin className="text-base" />
+              </motion.a>
               <motion.a
                 whileHover={{ scale: 1.15 }}
                 whileTap={{ scale: 0.95 }}

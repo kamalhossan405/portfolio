@@ -16,7 +16,7 @@ export const profile = {
   location: "Netrokona University, Netrokona, Bangladesh",
   socials: {
     github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    linkedin: "https://www.linkedin.com/in/md-kamal-hossan/",
     facebook: "",
   },
 };

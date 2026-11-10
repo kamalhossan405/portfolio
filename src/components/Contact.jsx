@@ -180,7 +180,7 @@ const Contact = () => {
                   <motion.a
                     whileHover={{ scale: 1.1, y: -2 }}
                     whileTap={{ scale: 0.95 }}
-                    href="https://www.linkedin.com/"
+                    href="https://www.linkedin.com/in/md-kamal-hossan/"
                     target="_blank"
                     rel="noreferrer"
                     aria-label="LinkedIn Profile"

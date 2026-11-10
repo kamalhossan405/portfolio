@@ -154,10 +154,11 @@ I am eager to contribute to real-world projects, learn from experienced develope
 
 I'm open to junior and entry-level development opportunities, collaborative projects, and professional networking.
 
-- 📧 **Email:** [ mdkamalhossanneu@gmail.com](mdkamalhossanneu@gmail.com)
-- 📞 **Phone:** [+880 1721482405](tel:+8801721482405)
-- 📍 **Location:** Sylhet, Bangladesh
+- 📧 **Email:** [mdkamalhossanneu@gmail.com](mailto:mdkamalhossanneu@gmail.com)
+- 📞 **Phone / WhatsApp:** [+880 1721482405](https://wa.me/8801721482405)
+- 📍 **Location:** Netrokona University, Netrokona, Bangladesh
 - 💻 **GitHub:** [kamalhossan405](https://github.com/kamalhossan405)
+- 💼 **LinkedIn:** [md-kamal-hossan](https://www.linkedin.com/in/md-kamal-hossan/)
 - 📘 **Facebook:** [Connect on Facebook](https://www.facebook.com/share/19rxoxRQ6Z/)
 
 - 🌍 **Portfolio:** [Visit My Portfolio](https://enchanting-churros-a305ce.netlify.app/)
