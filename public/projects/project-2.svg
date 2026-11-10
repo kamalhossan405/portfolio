@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4c1d95"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#a)"/>
+  <rect x="60" y="50" width="680" height="400" rx="18" fill="#0b1020" opacity="0.85"/>
+  <rect x="60" y="50" width="680" height="44" rx="18" fill="#141b36"/>
+  <circle cx="88" cy="72" r="6" fill="#f87171"/><circle cx="110" cy="72" r="6" fill="#fbbf24"/><circle cx="132" cy="72" r="6" fill="#34d399"/>
+  <g>
+    <rect x="90" y="124" width="200" height="300" rx="12" fill="#141b36"/><rect x="104" y="138" width="80" height="12" rx="6" fill="#22d3ee"/>
+    <rect x="104" y="166" width="172" height="56" rx="10" fill="#1e293b"/><rect x="104" y="234" width="172" height="56" rx="10" fill="#1e293b"/><rect x="104" y="302" width="172" height="56" rx="10" fill="#1e293b"/>
+    <rect x="300" y="124" width="200" height="300" rx="12" fill="#141b36"/><rect x="314" y="138" width="80" height="12" rx="6" fill="#a78bfa"/>
+    <rect x="314" y="166" width="172" height="56" rx="10" fill="#1e293b"/><rect x="314" y="234" width="172" height="56" rx="10" fill="#6366f1" opacity="0.7"/>
+    <rect x="510" y="124" width="200" height="300" rx="12" fill="#141b36"/><rect x="524" y="138" width="80" height="12" rx="6" fill="#34d399"/>
+    <rect x="524" y="166" width="172" height="56" rx="10" fill="#1e293b"/>
+  </g>
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle" opacity="0.8">Placeholder — replace with your project screenshot</text>
+</svg>

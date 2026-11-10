@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/><stop offset="1" stop-color="#0e7490"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#a)"/>
+  <rect x="60" y="50" width="680" height="400" rx="18" fill="#0b1020" opacity="0.85"/>
+  <rect x="60" y="50" width="680" height="44" rx="18" fill="#141b36"/>
+  <circle cx="88" cy="72" r="6" fill="#f87171"/><circle cx="110" cy="72" r="6" fill="#fbbf24"/><circle cx="132" cy="72" r="6" fill="#34d399"/>
+  <rect x="90" y="124" width="200" height="22" rx="8" fill="#6366f1"/>
+  <rect x="90" y="160" width="360" height="12" rx="6" fill="#334155"/>
+  <g>
+    <rect x="90" y="206" width="150" height="190" rx="12" fill="#141b36"/><rect x="100" y="216" width="130" height="100" rx="8" fill="#22d3ee" opacity="0.5"/><rect x="100" y="332" width="90" height="10" rx="5" fill="#94a3b8"/><rect x="100" y="352" width="50" height="14" rx="6" fill="#6366f1"/>
+    <rect x="262" y="206" width="150" height="190" rx="12" fill="#141b36"/><rect x="272" y="216" width="130" height="100" rx="8" fill="#6366f1" opacity="0.6"/><rect x="272" y="332" width="90" height="10" rx="5" fill="#94a3b8"/><rect x="272" y="352" width="50" height="14" rx="6" fill="#22d3ee"/>
+    <rect x="434" y="206" width="150" height="190" rx="12" fill="#141b36"/><rect x="444" y="216" width="130" height="100" rx="8" fill="#a78bfa" opacity="0.55"/><rect x="444" y="332" width="90" height="10" rx="5" fill="#94a3b8"/><rect x="444" y="352" width="50" height="14" rx="6" fill="#6366f1"/>
+    <rect x="606" y="206" width="110" height="190" rx="12" fill="#141b36"/><rect x="620" y="226" width="82" height="12" rx="6" fill="#94a3b8"/><rect x="620" y="250" width="60" height="12" rx="6" fill="#475569"/><rect x="620" y="350" width="82" height="30" rx="10" fill="#22d3ee"/>
+  </g>
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1" text-anchor="middle" opacity="0.8">Placeholder — replace with your project screenshot</text>
+</svg>
